@@ -1,9 +1,5 @@
 <div align="center">
     
-# 🏄‍♂️ Surfboard
-
-**一款不错的Android代理工具**
-
 <img src="https://raw.githubusercontent.com/cc63/Surfboard/main/Surfboard.PNG" width="300">
 
 </div>
