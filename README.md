@@ -9,15 +9,15 @@
 - 📡 使用Rule-Set进行分流
 - 🌍 灵活的订阅多个机场节点
 
-## 📘 如何使用
+## 📘 上手指南
 
-### 🖇 Surfboard
+### 🖇 了解Surfboard
 
 > **官方教程** https://manual.getsurfboard.com/
 > 
 > **下载链接** https://github.com/getsurfboard/surfboard/releases
 
-### ⚡ 配置文件
+### ⚡ 配置Surfboard
 
 > **配置文件** https://raw.githubusercontent.com/cc63/Surfboard/main/Surfboard.conf
 > 
