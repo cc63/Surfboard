@@ -13,9 +13,9 @@
 
 ### 🖇 Surfboard
 
-> **App教程** https://manual.getsurfboard.com/
+> **官方教程** https://manual.getsurfboard.com/
 > 
-> **App下载** https://github.com/getsurfboard/surfboard/releases
+> **下载链接** https://github.com/getsurfboard/surfboard/releases
 
 ### ⚡ 配置文件
 
