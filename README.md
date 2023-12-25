@@ -30,9 +30,7 @@
 -  Telegram: [ccc63](https://t.me/ccc63)
 - 🙌 感谢你的访问和支持！如有任何建议或反馈，请随时通过 Telegram 向我反馈。
 
-## ✈️ 推荐的机场服务
+## ✈️ 我推荐的机场
 
-我个人体验良好，但不保证适合每位用户。建议先选择月付体验。任何机场都存在不确定性。
-
-- 🌍 [「MESL」主打公有云专线 落地线路丰富 点亮全球中](https://in.mesl.cloud/#/register?code=YiKXC8T0)
-- 🌐 [「TAG」目前共有90+个国家地区节点，覆盖范围目前是机场里最广的。](https://tagss01.pro/#/auth/xfm2jXlF)
+- 🌍[「MESL」公有云专线/家宽节点，落地线路丰富，冷门地区线路覆盖](https://in.mesl.cloud/#/register?code=YiKXC8T0)
+- 🌍[「CTC」小众精品，不限时套餐备用首选](https://www.jinglongyu.com/#/register?code=NhhJLvBB)
